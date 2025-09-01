@@ -13,8 +13,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 // ---------- WiFi ----------
-#define WIFI_SSID "Airtel_536"
-#define WIFI_PASSWORD "Rekhasharma@121168"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
 WiFiMulti wifiMulti;
 
 // ---------- Supabase ----------
